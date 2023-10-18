@@ -2,4 +2,4 @@ Time Complexity:
 The time complexity of the function is O(n), where 'n' is the length of the input string 's'. This is because the function iterates through each character of the string exactly once, comparing it with the corresponding character in the string. The operations within each iteration are constant time operations, so the overall time complexity is linear.
 
 Space Complexity:
-The space complexity of the function is O(1), meaning it uses a constant amount of space. The variables 'expected', 'alteredCount', and 'i' all occupy a constant amount of space. The input string 's' is not considered in space complexity analysis here since it's given as input, and we're analyzing the space taken by the algorithm itself, excluding inputs.
+The space complexity of the function is O(1), a constant amount of space. The variables 'expected', 'alteredCount', and 'i' all occupy a constant amount of space. The input string 's' is not considered in space complexity analysis here since it's given as input, and we're analyzing the space taken by the algorithm itself, excluding inputs.
